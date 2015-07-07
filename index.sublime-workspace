@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files (x86)/Arduino/libraries/TFT/TFTv2.h",
+		"/C/Users/khairolnadzrin/Downloads/TFTv2.cpp",
+		"/C/Python27/testing.py",
+		"/C/Python27/movement.py",
+		"/C/Program Files (x86)/Arduino/libraries/TouchScreenMenu/TouchScreenMenu.h",
+		"/C/Python27/serial.pyc",
+		"/C/Python27/serial.py",
+		"/C/Users/khairolnadzrin/Downloads/Touch_Screen_Driver/SeeedTouchScreen.cpp",
+		"/C/Program Files (x86)/Arduino/libraries/TFT/TFTv2.cpp",
+		"/C/Users/khairolnadzrin/Downloads/Assignment2 (3)/Assignment2/Index.php",
+		"/C/Users/khairolnadzrin/Desktop/CST331/Image_Filtering/MPI/filters.h",
+		"/C/Users/khairolnadzrin/Desktop/CST331/Image_Filtering/OpenMP/makefile",
+		"/I/index.html",
+		"/C/Users/khairolnadzrin/Desktop/CST331/Image_Filtering/MPI/Makefile",
+		"/C/Users/khairolnadzrin/Desktop/CST331/Image_Filtering/CUDA/main.cu",
+		"/C/Users/khairolnadzrin/Downloads/FThirdLogIn.java",
+		"/I/boot/grub/grub.conf",
+		"/C/Users/khairolnadzrin/Desktop/CST331/Image_Filtering/CUDA/index.html",
+		"/I/index.php",
+		"/C/Users/khairolnadzrin/Desktop/CST331/Image_Filtering/OpenMP/conv2d.cpp",
+		"/C/Users/khairolnadzrin/Desktop/CST331/Image_Filtering/OpenMP/wmf.c",
+		"/C/Users/khairolnadzrin/Downloads/MPI-Image-Processor-master/MPI-Image-Processor-master/img_process.c",
+		"/C/Users/khairolnadzrin/Desktop/CST331/Image_Filtering/OpenMP/readjpeg.cpp",
+		"/C/Users/khairolnadzrin/Downloads/Chart.js-master/Chart.js-master/package.json",
+		"/C/Users/khairolnadzrin/Downloads/Chart.js-master/Chart.js-master/table.php",
+		"/D/image_build/tigru.pgm",
+		"/C/Users/khairolnadzrin/Downloads/Chart.js-master/Chart.js-master/Test.php",
+		"/C/Users/khairolnadzrin/Downloads/Chart.js-master/Chart.js-master/Chart.js",
+		"/C/Users/khairolnadzrin/Downloads/Chart.js-master/Chart.js-master/connection.php",
+		"/C/Users/khairolnadzrin/Downloads/Chart.js-master/cst333.sql",
+		"/C/Users/khairolnadzrin/Downloads/Chart.js-master/Chart.js-master/bower.json",
+		"/H/boot/grub/grub.conf",
+		"/D/Clanton_Full_SDK_Gen2_OracleJDK8_Tomcat8_SQLite3_BerkeleyDB12_OpenSSL1_Lua5_ApolloMQ1_Felix4_OpenVPN2/boot/grub/grub.conf",
+		"/C/Users/khairolnadzrin/Downloads/GPU_increment.cu",
+		"/C/Users/khairolnadzrin/Downloads/uclibc-Build-ldd-ldcondif-iconv-for-main-uclibc-recipe.patch",
+		"/D/images/boot/grub/grub.conf",
+		"/C/Users/khairolnadzrin/Downloads/Compressed/Clanton_Full_SDK_OpenJDK6_Tomcat7/Clanton_Full_SDK_OpenJDK6_Tomcat7/boot/grub/grub.conf",
+		"/C/Users/khairolnadzrin/Desktop/images/boot/grub/grub.conf",
+		"/D/images/modules--3.8-r0-clanton-20141130134155.tgz",
+		"/D/Kerja FYP/CST331/tspga-612e619309dc/population.cpp",
+		"/D/Kerja FYP/CST331/tspga-612e619309dc/tspga.cpp",
+		"/C/Users/khairolnadzrin/Desktop/Makefile",
+		"/D/Kerja FYP/CST331/sequential/sequential/Makefile",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/bayg29.tsp/sequential/Makefile",
+		"/C/Users/khairolnadzrin/Desktop/population.c",
+		"/C/Users/khairolnadzrin/Desktop/population.cpp",
+		"/C/Users/khairolnadzrin/Desktop/tspga-612e619309dc/individual.cpp",
+		"/C/Users/khairolnadzrin/Desktop/tspga-612e619309dc/population.cpp",
+		"/C/Users/khairolnadzrin/Desktop/tspga-612e619309dc/initial.dat",
+		"/C/Users/khairolnadzrin/Desktop/tspga-612e619309dc/tsp.tsp",
+		"/C/Users/khairolnadzrin/Desktop/tspga-612e619309dc/tspga.cpp",
+		"/C/Users/khairolnadzrin/Desktop/tspga-612e619309dc/tsp.dat",
+		"/C/Users/khairolnadzrin/Downloads/login.php",
+		"/C/Users/khairolnadzrin/Downloads/login.html",
+		"/D/Kerja FYP/CST331/hpc-master/hpc-master/openMP/GA/town.h",
+		"/D/Kerja FYP/CST331/hpc-master/hpc-master/openMP/GA/population.h",
+		"/D/Kerja FYP/CST331/hpc-master/hpc-master/openMP/GA/pools.h",
+		"/D/Kerja FYP/CST331/hpc-master/hpc-master/openMP/GA/par_town.c",
+		"/D/Kerja FYP/CST331/hpc-master/hpc-master/openMP/GA/par_population.c",
+		"/D/Kerja FYP/CST331/hpc-master/hpc-master/openMP/GA/par_pools.c",
+		"/D/Kerja FYP/CST331/hpc-master/hpc-master/openMP/GA/par_main.c",
+		"/D/Kerja FYP/CST331/hpc-master/hpc-master/openMP/GA/ms_version.moon",
+		"/D/Kerja FYP/CST331/hpc-master/hpc-master/openMP/GA/config.h",
+		"/D/Kerja FYP/CST331/hpc-master/hpc-master/openMP/GA/Makefile",
+		"/D/Kerja FYP/CST331/hpc-master/hpc-master/openMP/GA/tests/ptst",
+		"/D/Kerja FYP/CST331/hpc-master/hpc-master/openMP/GA/tests/pool_test.c",
+		"/C/Users/khairolnadzrin/Downloads/Compressed/Sequential_TSP/TSP.h",
+		"/C/Users/khairolnadzrin/Downloads/Compressed/Sequential_TSP/TSP.cpp",
+		"/C/Users/khairolnadzrin/Desktop/GeneticAlgorithm/tsp_solver.c",
+		"/C/Users/khairolnadzrin/Desktop/GeneticAlgorithm/population.c",
+		"/D/Kerja FYP/CST331/tspga-612e619309dc/tspga-612e619309dc/Makefile",
+		"/D/Kerja FYP/CST331/tspga-612e619309dc/tspga-612e619309dc/tsp.tsp",
+		"/C/Users/khairolnadzrin/Downloads/Compressed/Sequential_TSP/fitness.txt",
+		"/C/Users/khairolnadzrin/Downloads/tsp.f90",
+		"/C/Users/khairolnadzrin/Downloads/tspparsa.f90",
+		"/C/Users/khairolnadzrin/Desktop/maps/population.h",
+		"/C/Users/khairolnadzrin/Desktop/maps/population.c",
+		"/C/Users/khairolnadzrin/Desktop/maps/map.h",
+		"/C/Users/khairolnadzrin/Desktop/maps/map.c",
+		"/C/Users/khairolnadzrin/Desktop/maps/common.h",
+		"/C/Users/khairolnadzrin/Desktop/maps/common.c",
+		"/C/Users/khairolnadzrin/Desktop/maps/tsp_solver.c",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/si175.tsp/si175.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/bayg29.tsp/bayg29.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/brazil58.tsp/brazil58.tsp",
+		"/C/Users/khairolnadzrin/Desktop/maps/gr17.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/si1032.tsp/si1032.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/brg180.tsp/brg180.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/xray.problems/xray.problems",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/vm1084.tsp/vm1084.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/ulysses16.tsp/ulysses16.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/u159.tsp/u159.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/tsp225.tsp/tsp225.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/ts225.tsp/ts225.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/swiss42.tsp/swiss42.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/st70.tsp/st70.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/si535.tsp/si535.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/rl1304.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/rd100.tsp/rd100.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/rat195.tsp/rat195.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/pr76.tsp/pr76.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/pla7397.tsp/pla7397.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/pcb442.tsp/pcb442.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/pa561.tsp/pa561.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/p654.tsp/p654.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/nrw1379.tsp/nrw1379.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/lin105.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/kroB100.tsp/kroB100.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/hk48.tsp/hk48.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/gr120.tsp/gr120.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/gr21.tsp/gr21.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/gr17.tsp/gr17.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/gil262.tsp/gil262.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/fri26.tsp/fri26.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/fnl4461.tsp/fnl4461.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/fl1400.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/fl417.tsp/fl417.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/eil76.tsp/eil76.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/dsj1000.tsp/dsj1000.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/d657.tsp/d657.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/d198.tsp/d198.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/ch150.tsp/ch150.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/brd14051.tsp/brd14051.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/bier127.tsp/bier127.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/att532.tsp/att532.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/att48.tsp/att48.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/ali535.tsp/ali535.tsp",
+		"/D/Kerja FYP/CST331/ALL_tsp.tar/a280.tsp/a280.tsp"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setDisplayDirect",
+			"setDisplay",
+			"Direction",
+			"setOrientation",
+			"FThirdLogIn",
+			"txtIC",
+			"Exception",
+			"Exceptoon",
+			"MPI_Isend",
+			"rank==MASTER",
+			"rank=MASTER",
+			"numberProcesses",
+			"rank",
+			"MAX_COLOR",
+			"MPI_Init",
+			"MPI_Barrier",
+			"MPI_Finalize",
+			"IDIR",
+			"omp",
+			"openmp",
+			"_start",
+			"HEIGHT",
+			"icon_profile",
+			".dropdown",
+			"icon-envelope",
+			"src",
+			"img",
+			"icon-user",
+			"resume",
+			"javascript"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

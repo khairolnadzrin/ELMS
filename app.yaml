@@ -1,0 +1,61 @@
+application: alpha-988
+version: 1
+runtime: php55
+api_version: 1
+
+handlers:
+
+  # Serve php scripts.
+- url: /css
+  static_dir: css
+
+- url: /img
+  static_dir: img
+
+- url: /js
+  static_dir: js
+
+- url: /js
+  static_dir: js
+
+- url: /page/.*
+  script: add_staff.php
+
+- url: /page/.*
+  script: apply_leave.php
+
+- url: /page/.*
+  script: approve_leave.php
+
+- url: /page/.*
+  script: DB.php
+
+- url: /page/.*
+  script: edit_data.php
+
+- url: /page/.*
+  script: edit_profile.php
+
+- url: /page/.*
+  script: login.php
+
+- url: /page/.*
+  script: logout.php
+
+- url: /page/.*
+  script: staff.php
+
+- url: /page/.*
+  script: session.php
+
+- url: /page/.*
+  script: management.php
+
+- url: /page/.*
+  script: staff_details.php
+
+- url: /page/.*
+  script: update_password.php
+
+- url: /.*
+  script: index.php
